@@ -13,3 +13,7 @@ Supported commands:
 - *disk* / *volume* - shows volume info;
 - *update* - update volume info (in case of disk formatting). It updates automatically after creating a file/catalog.
 - *quit* / *exit* - saves changes on the disk (they may be cached) and close the program.
+
+### Build
+*make build*
+*./f32disk <file>* - run the program
