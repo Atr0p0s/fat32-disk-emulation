@@ -16,5 +16,5 @@ Supported commands:
 
 ### Build
 *make build*
-
-*./f32disk <file_path>* - run the program
+### Run
+*./f32disk <file_path>*
